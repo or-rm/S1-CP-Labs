@@ -12,4 +12,4 @@ Para poder observar apropiadamente el cuadernillo del LAB03 es necesario instala
 
 ## Proyectos
 [Proyecto 1](https://github.com/or-rm/S1-CP-Proy1)
-[Proyecto 2](https://)
+[Proyecto 2](https://github.com/luisramilian95/iio-data-science-project-2/)
